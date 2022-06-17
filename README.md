@@ -17,7 +17,7 @@
 
 
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alexaking11122/zimbot-v3)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Alexaking11122/zimbot-v3/edit/zim-bot-inc/README.md)
 
 ## BUILD PACKS
 
